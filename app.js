@@ -1,3 +1,9 @@
+
+
+
+
+
+
 var questions = [
     {
         question: 'What does HTML stand for?',
@@ -156,10 +162,3 @@ function clicked(){
  
 
 
-// const btn69 = () =>{
-
-//     location.href='./quiz.html'
-
-// }
-
-// btn.addEventListener('click', btn69)
